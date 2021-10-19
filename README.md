@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sebatease
+- 👀 I’m interested in web & apps
+- 🌱 I’m currently learning js, php, nodejs 
+- 💞️ I’m looking to collaborate on website & apps
+- 📫 How to reach me norsty@free.fr
